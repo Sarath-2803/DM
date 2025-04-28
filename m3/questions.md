@@ -124,3 +124,18 @@ Suppose that a store offers gift certificates in denomina-
 tions of 25 dollars and 40 dollars. Determine the possible
 total amounts you can form using these gift certificates.
 Prove your answer using strong induction.
+
+Use strong induction to prove that √2 is irrational. [Hint:
+Let P(n) be the statement that √2 ≠ n∕b for any positive
+integer b.]
+
+Assume that a chocolate bar consists of n squares ar-
+ranged in a rectangular pattern. The entire bar, or any
+smaller rectangular piece of the bar, can be broken along
+a vertical or a horizontal line separating the squares.
+Assuming that only one piece can be broken at a time,
+determine how many breaks you must successively make
+to break the bar into n separate squares. Use strong in-
+duction to prove your answer
+
+
