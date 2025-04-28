@@ -81,4 +81,46 @@ integer.
 ∗ 30. Prove that
 H1 + H2 + ⋯ + Hn = (n + 1)H n − n.
 
+------------------5.2-----------------------
 
+Let P(n) be the statement that a postage of n cents can be
+formed using just 3-cent stamps and 5-cent stamps. The
+parts of this exercise outline a strong induction proof that
+P(n) is true for all integers n ≥ 8.
+a) Show that the statements P(8), P(9), and P(10) are
+true, completing the basis step of a proof by strong
+induction that P(n) is true for all integers n ≥ 8.
+b) What is the inductive hypothesis of a proof by strong
+induction that P(n) is true for all integers n ≥ 8?
+c) What do you need to prove in the inductive step of
+a proof by strong induction that P(n) is true for all
+integers n ≥ 8?
+d) Complete the inductive step for k ≥ 10.
+e) Explain why these steps show that P(n) is true when-
+ever n ≥ 8.
+
+a) Determine which amounts of postage can be formed
+using just 4-cent and 11-cent stamps.
+b) Prove your answer to (a) using the principle of math-
+ematical induction. Be sure to state explicitly your
+inductive hypothesis in the inductive step.
+c) Prove your answer to (a) using strong induction. How
+does the inductive hypothesis in this proof differ from
+that in the inductive hypothesis for a proof using
+mathematical induction?
+
+This is a Frobenius coin problem with two relatively prime integers (4 and 11 are coprime). The largest amount not representable with such coin types is:
+Largest amount not formable=(4⋅11)−4−11=44−4−11=29
+Largest amount not formable=(4⋅11)−4−11=44−4−11=29​
+
+So:
+
+    All amounts ≥ 30 cents can be formed using 4-cent and 11-cent stamps.
+
+    Some amounts < 30 cents cannot be formed.
+
+
+Suppose that a store offers gift certificates in denomina-
+tions of 25 dollars and 40 dollars. Determine the possible
+total amounts you can form using these gift certificates.
+Prove your answer using strong induction.
