@@ -138,4 +138,39 @@ determine how many breaks you must successively make
 to break the bar into n separate squares. Use strong in-
 duction to prove your answer
 
+12. Prove that (f1)^2 + (f2)^ + ⋯ + (fn)^2 = fnfn+1 when n is a positive
+integer.
+13. Prove that f1 + f3 + ⋯ + f2n−1 = f2n when n is a positive
+integer.
+∗ 14. Show that fn+1fn−1 − (fn)^2 = (−1)^n when n is a positive integer.
+∗ 15. Show that f0f1 + f1f2 + ⋯ + f2n−1f2n = (f2n)^2 when n is a
+positive integer.
+∗ 16. Show that f0 − f1 + f2 − ⋯ − f2n−1 + f2n = f2n−1 − 1
+when n is a positive integer.
+
+---------------------Determine the number of divisions used by the Euclidean
+algorithm to find the greatest common divisor of the Fi-
+bonacci numbers f n and fn+1 , where n is a nonnegative in-
+teger. Verify your answer using mathematical induction.-------
+
+∗ 20. Give a recursive definition of the functions max and min
+so that max(a1, a2, … , a n) and min(a1, a2, … , a n) are the
+maximum and minimum of the n numbers a1, a2, … , a n,
+respectively.
+∗ 21. Let a1, a2, … , a n, and b1, b2, … , b n be real numbers. Use
+the recursive definitions that you gave in Exercise 20 to
+prove these.
+a) max(−a1, −a2, … , −a n) = − min(a1, a2, … , a n)
+b) max(a1 + b1, a2 + b2, … , a n + b n)
+≤ max(a1, a2, … , a n) + max(b1, b2, … , b n)
+c) min(a1 + b1, a2 + b2, … , a n + b n)
+≥ min(a1, a2, … , a n) + min(b1, b2, … , b n)
+
+Give a recursive definition of
+*the set of polynomials with integer coefficients
+*the set of positive integers congruent to 2 modulo 3.
+c) the set of positive integers not divisible by 5.
+
+
+
 
