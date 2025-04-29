@@ -171,6 +171,36 @@ Give a recursive definition of
 *the set of positive integers congruent to 2 modulo 3.
 c) the set of positive integers not divisible by 5.
 
+Find a recurrence relation for Cn, the number of ways to parenthesize the product of n + 1 num-
+bers, x0 ⋅ x1 ⋅ x2 ⋅ ⋯ ⋅ xn, to specify the order of multiplication. For example, C3 = 5 because
+there are five ways to parenthesize x0 ⋅ x1 ⋅ x2 ⋅ x3 to determine the order of multiplication
+
+ 6. a) Find a recurrence relation for the number of strictly
+increasing sequences of positive integers that have 1
+as their first term and n as their last term, where n is
+a positive integer. That is, sequences a1, a2, … , a k,
+where a1 = 1, a k = n, and aj < aj+1 for j =
+1, 2, … , k − 1.
+b) What are the initial conditions?
+c) How many sequences of the type described in (a) are
+there when n is an integer with n ≥ 2?
+
+ #Find a recurrence relation for the number of bit strings
+of length n that contain a pair of consecutive 0s.
+
+#Find a recurrence relation for the number of bit strings
+of length n that contain three consecutive 0
+
+#------------- Find a recurrence relation for the number of bit strings
+of length n that do not contain three consecutive 0s --------------------------
+
+∗ 10. a) Find a recurrence relation for the number of bit strings
+of length n that contain the string 01.
+b) What are the initial conditions?
+c) How many bit strings of length seven contain the
+string 01
+
+
 
 
 
