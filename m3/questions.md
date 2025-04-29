@@ -201,6 +201,6 @@ c) How many bit strings of length seven contain the
 string 01
 
 
-
-
+In how many ways can a 2 × n rectangular checkerboard
+be tiled using 1 × 2 and 2 × 2 pieces?
 
