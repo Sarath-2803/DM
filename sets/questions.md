@@ -44,3 +44,10 @@ a) f (x) = 1∕x?
 b) f (x) = √x?
 c) f (x) = ±√(x2 + 1)?
 
+
+---------Relation------------------
+
+A relation can be used to express a one-to-many relationship between the elements of the
+sets A and B (as in Example 2), where an element of A may be related to more than one element
+of B. A function represents a relation where exactly one element of B is related to each element
+of A.
