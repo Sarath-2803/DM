@@ -58,3 +58,55 @@ b) Show that there are either at least three freshmen, at
 least 19 sophomores, or at least five juniors in the
 class
 
+There are 38 different time periods during which classes
+at a university can be scheduled. If there are 677 different
+classes, how many different rooms will be needed?
+
+. Assuming that no one has more than 1,000,000 hairs on
+their head and that the population of New York City was
+8,537,673 in 2016, show there had to be at least nine peo-
+ple in New York City in 2016 with the same number of
+hairs on their heads.
+
+ Show that there are at least six people in California (pop-
+ulation: 39 million) with the same three initials who were
+born on the same day of the year (but not necessarily in
+the same year). Assume that everyone has three initials.
+
+A computer network consists of six computers. Each
+computer is directly connected to at least one of the other
+computers. Show that there are at least two computers in
+the network that are directly connected to the same num-
+ber of other computers.
+
+A computer network consists of six computers. Each
+computer is directly connected to zero or more of the
+other computers. Show that there are at least two com-
+puters in the network that are directly connected to the
+same number of other computers. [Hint: It is impossible
+to have a computer linked to none of the others and a
+computer linked to all the others.]
+
+
+ Find the least number of cables required to connect eight
+computers to four printers to guarantee that for every
+choice of four of the eight computers, these four com-
+puters can directly access four different printers. Justify
+your answer
+
+Prove that at a party where there are at least two people,
+there are two people who know the same number of other
+people there
+
+. An arm wrestler is the champion for a period of 75 hours.
+(Here, by an hour, we mean a period starting from an ex-
+act hour, such as 1 P. M ., until the next hour.) The arm
+wrestler had at least one match an hour, but no more than
+125 total matches. Show that there is a period of consec-
+utive hours during which the arm wrestler had exactly 24
+matches
+
+There are 51 houses on a street. Each house has an ad-
+dress between 1000 and 1099, inclusive. Show that at
+least two houses have addresses that are consecutive in-
+tegers.
