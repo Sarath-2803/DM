@@ -204,3 +204,35 @@ string 01
 In how many ways can a 2 × n rectangular checkerboard
 be tiled using 1 × 2 and 2 × 2 pieces?
 
+Find a closed form for the generating function for each of
+these sequences. (For each sequence, use the most obvi-
+ous choice of a sequence that follows the pattern of the
+initial terms listed.)
+a) 0, 2, 2, 2, 2, 2, 2, 0, 0, 0, 0, 0, …
+b) 0, 0, 0, 1, 1, 1, 1, 1, 1, …
+c) 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 1,           [r/1-q]
+e)
+( 7
+0
+)
+,
+( 7
+1
+)
+,
+( 7
+2
+)
+, … ,
+( 7
+7
+)
+, 0, 0, 0, 0, 0, 
+
+ Use generating functions to solve the recurrence rela-
+tion a k = 5a k−1 − 6a k−2 with initial conditions a0 = 6
+and a1 = 30.
+
+Use generating functions to solve the recurrence relation
+a k = a k−1 + 2a k−2 + 2k with initial conditions a0 = 4 and
+a1 = 12.
