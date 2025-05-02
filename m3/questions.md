@@ -236,3 +236,31 @@ and a1 = 30.
 Use generating functions to solve the recurrence relation
 a k = a k−1 + 2a k−2 + 2k with initial conditions a0 = 4 and
 a1 = 12.
+
+13. a) Find a recurrence relation for the number of ternary
+strings of length n that do not contain two consecu-
+tive 0s.
+b) What are the initial conditions?
+c) How many ternary strings of length six do not contain
+two consecutive 0s?
+14. a) Find a recurrence relation for the number of ternary
+strings of length n that contain two consecutive 0s.
+b) What are the initial conditions?
+c) How many ternary strings of length six contain two
+consecutive 0s?
+
+Messages are transmitted over a communications channel
+using two signals. The transmittal of one signal requires
+1 microsecond, and the transmittal of the other signal re-
+quires 2 microseconds.
+a) Find a recurrence relation for the number of differ-
+ent messages consisting of sequences of these two
+signals, where each signal in the message is imme-
+diately followed by the next signal, that can be sent
+in n microseconds.
+
+Find the recurrence relation satisfied by R n, where R n
+is the number of regions that a plane is divided into
+by n lines, if no two of the lines are parallel and no
+three of the lines go through the same point.
+
