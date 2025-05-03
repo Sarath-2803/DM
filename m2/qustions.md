@@ -110,3 +110,36 @@ There are 51 houses on a street. Each house has an ad-
 dress between 1000 and 1099, inclusive. Show that at
 least two houses have addresses that are consecutive in-
 tegers.
+
+
+-----------propositional-------------
+
+State the converse, contrapositive, and inverse of each of
+these conditional statements.
+a) If it snows today, I will ski tomorrow.
+b) I come to class whenever there is going to be a quiz.
+c) A positive integer is a prime only if it has no divisors
+other than 1 and itself.
+
+ For each of these sentences, state what the sentence
+means if the logical connective or is an inclusive or (that
+is, a disjunction) versus an exclusive or. Which of these
+meanings of or do you think is intended?
+a) To take discrete mathematics, you must have taken
+calculus or a course in computer science.
+b) When you buy a new car from Acme Motor Company,
+you get $2000 back in cash or a 2% car loan.
+c) Dinner for two includes two items from column A or
+three items from column B.
+d) School is closed if more than two feet of snow falls or
+if the wind chill is below −100 ◦F
+
+You cannot edit a protected Wikipedia entry unless you
+are an administrator. Express your answer in terms of e:
+“You can edit a protected Wikipedia entry” and a: “You
+are an administrator.”
+
+Express the statement “If a person is female and is a parent, then this person is someone’s
+mother” as a logical expression involving predicates, quantifiers with a domain consisting of all
+people, and logical connectives.
+
