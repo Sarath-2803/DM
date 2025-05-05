@@ -111,3 +111,20 @@ is unique if it exists.
 50. Show that every totally ordered set is a lattice.
 51. Show that every finite lattice has a least element and a
 greatest element.
+
+40. a) Show that there is exactly one greatest element of a
+poset, if such an element exists.
+b) Show that there is exactly one least element of a poset,
+if such an element exists.
+41. a) Show that there is exactly one maximal element in a
+poset with a greatest element.
+b) Show that there is exactly one minimal element in a
+poset with a least element.
+
+a) Show that the least upper bound of a set in a poset is
+unique if it exists.
+b) Show that the greatest lower bound of a set in a poset
+is unique if it exists.
+
+Show that every nonempty finite subset of a lattice has a
+least upper bound and a greatest lower bound
