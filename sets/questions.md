@@ -83,7 +83,8 @@ lexicographic ordering
 draw hasse dia
 find max,min,greatest,lowest,upper b,lower b,glb,lub 
 lattice or not
-
+find all compatible total orders
+completing tasks-check ss
 
 Show that lexicographic order is a partial ordering on the
 Cartesian product of two posets
@@ -128,3 +129,12 @@ is unique if it exists.
 
 Show that every nonempty finite subset of a lattice has a
 least upper bound and a greatest lower bound
+
+Show that every finite lattice has a least element and a
+greatest element.
+
+Verify that (Z+ × Z+,  ) is a well-ordered set, where 
+is lexicographic order,
+
+Determine whether each of these posets is well-ordered.
+d) (Z−, ≥), where Z− is the set of negative integers
